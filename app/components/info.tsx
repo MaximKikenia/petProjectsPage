@@ -44,7 +44,7 @@ const Info = {
     projectsItem: {
         programming: [
             {
-                linkTo: "https://nyt-app-dc10e1d49f1e.herokuapp.com",
+                linkTo: "https://my-nyt-app-210e74a2f9fe.herokuapp.com/",
                 stack: ["NYTimes APi", "TypeScript", "React", "Redux", "React Router",  "SCSS", "CSS", "Webpack", "Git", "Heroku"],
                 RU: {
                     name: "NYTimes: лучшие статьи и бестселлеры книг",
@@ -56,7 +56,7 @@ const Info = {
                 }
             },
             {
-                linkTo: "https://wud-app-d6edb426fb1f.herokuapp.com/",
+                linkTo: "https://my-wud-app-28903ca6f122.herokuapp.com/",
                 stack: ["CountryFlagsAPI", "API Ninjas: Country API", "University API", "JavaScript", "React", "Redux", "React Router",  "SCSS", "CSS", "Webpack", "Git", "Heroku"],
                 RU: {
                     name: "Справочник университетов мира (243 страны)",
@@ -68,7 +68,7 @@ const Info = {
                 }
             },
             {
-                linkTo: "https://oldproj-a7a568d95101.herokuapp.com/drawPolygon/index.html",
+                linkTo: "https://my-old-apps-834f1a71a13f.herokuapp.com/drawPolygon/index.html",
                 stack: ["HTML (Canvas)", "JavaScript", "React", "Redux", "CSS", "Webpack", "Git", "Heroku"],
                 RU: {
                     name: "Рисовалка полигонов и кругов (Canvas)",
@@ -81,7 +81,7 @@ const Info = {
             }],
         layouts: [
             {
-                linkTo: "https://oldproj-a7a568d95101.herokuapp.com/Investment%20agency/dist/index.html",
+                linkTo: "https://my-old-apps-834f1a71a13f.herokuapp.com/Investment%20agency/dist/index.html",
                 stack: ["CSS", "HTML", "JavaScript", "Webpack", "Git", "Heroku"],
                 RU: {
                     name: "Вёрстка страница, “Агенство Приватизации”",
@@ -93,7 +93,7 @@ const Info = {
                 }
             },
             {
-                linkTo: "https://lekitten-f358d89d4ab7.herokuapp.com/#gallery",
+                linkTo: "https://my-kitten-app-0818835228a5.herokuapp.com/",
                 stack: ["SCSS", "CSS", "HTML", "JavaScript", "Webpack", "Git", "Heroku"],
                 RU: {
                     name: "Лэндинг для породы британских кошек “Девон Рекс”",
@@ -105,7 +105,7 @@ const Info = {
                 }
             },
             {
-                linkTo: "https://oldproj-a7a568d95101.herokuapp.com/poker%20slider/index.html",
+                linkTo: "https://my-old-apps-834f1a71a13f.herokuapp.com/poker%20slider/index.html",
                 stack: ["JavaScript", "Jquery", "CSS", "HTML", "Webpack", "Git", "Heroku"],
                 RU: {
                     name: "Анимированный слайдер для “Академии Покера”",
